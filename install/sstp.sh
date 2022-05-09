@@ -42,7 +42,7 @@ cpack -G DEB
 dpkg -i accel-ppp.deb
 mv /etc/accel-ppp.conf.dist /etc/accel-ppp.conf
 #
-GitUser="syapik96"
+GitUser="drixalexa"
 #wget https://github.com/${GitUser}/
 #
 wget -O /etc/accel-ppp.conf "https://raw.githubusercontent.com/${GitUser}/aws/main/accel.conf"

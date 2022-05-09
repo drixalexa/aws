@@ -10,10 +10,10 @@ echo -e "#       ░█▀▀▀█ ░█▄─░█ ░█▀▀▀ 　 ░�
 echo -e "#       ░█──░█ ░█░█░█ ░█▀▀▀ 　 ░█▄▄█ ░█─ ░█▀▀▀ ░█─── ░█▀▀▀           #" | lolcat
 echo -e "#       ░█▄▄▄█ ░█──▀█ ░█▄▄▄ 　 ░█─── ▄█▄ ░█▄▄▄ ░█▄▄█ ░█▄▄▄           #" | lolcat
 echo -e "#                                                                    #" | lolcat
-echo -e "#                         - Modded By PrinceNewbie                   #" | lolcat
+echo -e "#                         - Modded By Drixalexa                      #" | lolcat
 echo -e "#           │▒│ /▒/       - Thanks To :                              #" | lolcat
 echo -e "#           │▒│/▒/        - Whatsapp  :                              #" | lolcat
-echo -e "#         　│▒ /▒/─┬─┐    - Telegram : t.me/PrinceNewbie             #" | lolcat
+echo -e "#         　│▒ /▒/─┬─┐    - Telegram : t.me/drixalexa                #" | lolcat
 echo -e "#           │▒│▒|▒│▒│     - To those who use this script,            #" | lolcat
 echo -e "#          ┌┴─┴─┐-┘─┘       this script is still under development   #" | lolcat
 echo -e "#          │▒┌──┘▒▒▒│     - Thanks for who using this script         #" | lolcat
@@ -22,7 +22,7 @@ echo -e "#                                                                    #"
 echo -e "#====================================================================#" | lolcat
 echo -e ""
 echo -e "                         \e[1;32mCOPYRIGHT © 2021\e[0m "
-echo -e "               \e[1;32mONEPIECEVPN POWERED BY PRINCENEWBIE\e[0m"
+echo -e "               \e[1;32mONEPIECEVPN POWERED BY DRIXALEXA\e[0m"
 echo -e "            \e[1;32mPrivacy Policy Terms & Conditions Disclaimer\e[0m"
 echo -e "\e[1;31m"
 echo -e "                Pres Enter To back Menu or X To Exit "

@@ -3,7 +3,7 @@
 # 
 # ==================================================
 
-GitUser="syapik96"
+GitUser="drixalexa"
 #wget https://github.com/${GitUser}/
 
 # initializing var

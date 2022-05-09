@@ -20,13 +20,13 @@ src="https://img.shields.io/badge/Service-V2ray-success.svg">  <img src= "https:
   ```
  <img src="https://img.shields.io/badge/Install All-VPN%20Batch-green"></img>
  ```html
- wget https://raw.githubusercontent.com/syapik96/aws/main/setup.sh 
+ wget https://raw.githubusercontent.com/drixalexa/aws/main/setup.sh 
  chmod +x setup.sh 
  ./setup.sh
  ```
  <img src="https://img.shields.io/badge/Install%20Only-SSH%2FSSH%20SSL(Stunnel)%20SSH--WS%20Python%20BadVPN--UDPGW-green"></img>
  ```html
- wget https://raw.githubusercontent.com/syapik96/aws/main/install/sshonly.sh
+ wget https://raw.githubusercontent.com/drixalexa/aws/main/install/sshonly.sh
  chmod +x sshonly.sh  
  ./sshonly.sh
  ```
@@ -44,7 +44,7 @@ src="https://img.shields.io/badge/Service-V2ray-success.svg">  <img src= "https:
 - Replace all this with your own acc name :
 
 ```diff
-- GitUser="syapik96"
+- GitUser="drixalexa"
 ```
 	    
 - if there is an error not skilled to fix.(hope pull issue).

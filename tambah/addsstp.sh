@@ -31,5 +31,5 @@ echo -e "Port          : 5555"
 echo -e "Cert          : http://$IP:81/server.crt"
 echo -e "Expired On    : $exp"
 echo -e "================================"
-echo -e "Mod By OnePiece"
+echo -e "Rebuild By Drixalexa"
 EOF

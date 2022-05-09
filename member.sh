@@ -16,6 +16,6 @@ JUMLAH="$(awk -F: '$3 >= 1000 && $1 != "nobody" {print $1}' /etc/passwd | wc -l)
 echo "-------------------------------"
 echo "Jumlah akun: $JUMLAH user"
 echo "-------------------------------"
-echo "   POWERED BY PRINCENEWBIE.    "
-echo "    COPYRIGHT ONEPIECEVPN      "
+echo "   REBUILD BY DRIXALEXA.       "
+echo "    COPYRIGHT SINCE 2022       "
 echo "-------------------------------"

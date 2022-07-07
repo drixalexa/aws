@@ -50,14 +50,14 @@ if [[ ! -e /etc/v2ray ]]; then
 else
     mkdir /etc/v2ray
 fi
-if [[ ! -e /var/lib/premium-script/ipvps.conf ]]; then
+if [[ ! -e /var/lib/Mantap/ipvps.conf ]]; then
     echo -e "          ${blue}Hello Stranger , thanks using my-repo${NC}" 
     echo -e "    ${red}It's seem you have installed kind vpn script before"
     echo -e "  Auto-Script will remove your current configuration folder"
     echo -e "to avoid problem while auto-script running configuration setup${NC}"
     sleep 3
-    rm -rf /var/lib/premium-script
-    echo " system has deleted current /var/lib/premium-script "
+    rm -rf /var/lib/Mantap
+    echo " system has deleted current /var/lib/Matap "
     sleep 1
     echo " system create new directory for new auto-script installation"
     sleep 1
